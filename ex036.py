@@ -1,9 +1,9 @@
 print("-=-" * 11)
 print(" ANALISADOR DE CRÉDITO APROVADO")
 print("-=-" * 11)
-casa = float(input("Qual o valos da casa? "))
-salario = float(input("Qual o seu salário? "))
-anos = float(input("Em quantos anos pretende pagar?" ))
+casa = float(input("Qual o valos da casa? R$ "))
+salario = float(input("Qual o seu salário? R$ "))
+anos = float(input("Em quantos anos pretende pagar? " ))
 meses = (anos * 12) 
 credito = salario * 0.3
 parcela = casa / meses
