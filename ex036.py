@@ -1,3 +1,4 @@
+# ANALISADOR DE CRÉDITOS
 print("-=-" * 11)
 print(" ANALISADOR DE CRÉDITO APROVADO")
 print("-=-" * 11)
