@@ -1,3 +1,4 @@
+#CONVERSOR BINÁRIO/OCTAL/HEXA
 num = int(input("Digite um número inteiro: "))
 print('''Escolha umadas bases de conversão:
 [1] Converter para BINÁRIO
