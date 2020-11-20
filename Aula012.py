@@ -1,4 +1,4 @@
-# ANALISADOR TEM NOMES LISTADOS
+# ANALISADOR TEM NOMES LISTADOS PARA SAUDAÇÃO
 nome = str(input("Qual é seu nome??"))
 if nome == "Gui":
     print("Que nome bonito")
