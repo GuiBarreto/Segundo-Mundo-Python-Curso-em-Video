@@ -1,6 +1,6 @@
 #CONVERSOR BINÁRIO/OCTAL/HEXA
 num = int(input("Digite um número inteiro: "))
-print('''Escolha umadas bases de conversão:
+print('''Escolha uma das bases de conversão:
 [1] Converter para BINÁRIO
 [2] Converter para OCTAL
 [3] Converter para HEXADECIMAL''')
